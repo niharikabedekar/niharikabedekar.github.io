@@ -5,3 +5,16 @@ header:
     - name: Home
       slug: /     # <-- index.md
     - name: Work  # <-- work.md
+
+footer:
+  show_powered_by: true
+  contact:
+    - name: Email
+      value: niharikabedekar@gmail.com
+      link: mailto:niharikabedekar@gmail.com
+  follow:
+    - name: Twitter
+      link: http://twitter.com/niharikabedekar
+      username: "@niharikabedekar"
+    - name: LinkedIn
+      link: http://linkedin.com/in/niharikabedekar
