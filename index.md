@@ -6,5 +6,5 @@ profile_picture:
 ---
 
 <p>
-  I'm Niharika - an entrepreneur, engineering leader, and women's health advocate.<br /><br />Take a look at my work to learn more about me, and reach out below for anything else! I'm excited to hear from you. 
+  I'm Niharika - a women's health advocate and engineering leader.<br /><br />Take a look at my work to learn more about me, and reach out below for anything else! I'm excited to hear from you. 
 </p>
